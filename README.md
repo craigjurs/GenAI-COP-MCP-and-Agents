@@ -7,9 +7,6 @@ weather_udf.ipynb
 
 https://colab.research.google.com/github/craigjurs/GenAI-COP-MCP-and-Agents/blob/main/weather_udf.ipynb
 
-compute_weather_from_local_mcp.ipynb
-
-https://colab.research.google.com/github/craigjurs/GenAI-COP-MCP-and-Agents/blob/main/compute_weather_from_local_mcp.ipynb
 
 weather_mcp.ipynb
 
